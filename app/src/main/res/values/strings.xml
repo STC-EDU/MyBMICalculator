@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyBMICalculator</string>
+    <string name="tv_your_obesity">あなたの肥満度は</string>
+    <string name="level1">低体重</string>
+    <string name="level2">普通体重</string>
+    <string name="level3">肥満(1度)</string>
+    <string name="level4">肥満(2度)</string>
+    <string name="level5">肥満(3度)</string>
+    <string name="level6">肥満(4度)</string>
+    <string name="tv_appropriate_weight">あなたの適正体重は</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_weight">体重</string>
+    <string name="bt_calc">計算</string>
+</resources>
