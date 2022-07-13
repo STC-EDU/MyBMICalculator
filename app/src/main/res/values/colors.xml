@@ -13,4 +13,5 @@
     <color name="level4">#ff6030</color>
     <color name="level5">#ff4010</color>
     <color name="level6">#ff0000</color>
+    <color name="temp">#ffff00</color>
 </resources>
